@@ -1,0 +1,199 @@
+body
+{  
+    background-color: yellow;
+   
+}
+h1
+{
+    text-align: center;
+}
+.test1
+{
+    width:100px;
+    height:100px;
+}
+.r1
+{
+    width:60px;
+    height:60px;
+    background-color:rgb(23, 175, 23);
+    margin:45px;
+    position:relative;
+    animation-name:row1;
+    animation-duration: 2s;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    text-align: center;
+    
+    
+}
+@keyframes row1
+{
+    from
+    {           
+                width:300px;
+                height:100px;
+     }
+    to
+    {    }
+ }
+ .r2
+{
+    width:60px;
+    height:60px;
+    background-color:rgb(23, 175, 23);
+    margin:45px;
+    position:relative;
+    animation-name:row2;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-iteration-count:1;
+}
+@keyframes row2
+{
+    from
+    {           
+                width:100px;
+                height:100px;
+     }
+    to
+    {           
+                width:400px;
+                height:400px;
+    }
+ }
+ .r3
+ {
+     width:60px;
+     height:60px;
+     background-color:rgb(23, 175, 23);
+     margin:45px;
+     position:relative;
+     animation-name:row3;
+     animation-duration: 2s;
+     animation-direction: alternate;
+     animation-iteration-count: 1;
+ }
+ @keyframes row3
+ {
+     from
+     {           
+                 width:100px;
+                 height:100px;
+      }
+     to
+     {           
+                 width:500px;
+                 height:400px;
+     }
+  }
+  .r4
+  {
+      width:60px;
+      height:60px;
+      background-color:rgb(23, 175, 23);
+      margin:45px;
+      position:relative;
+      animation-name:row4;
+      animation-duration: 2s;
+      animation-direction: alternate;
+      animation-iteration-count: 1;
+  }
+  @keyframes row4
+  {
+      from
+      {           
+                  width:100px;
+                  height:100px;
+       }
+      to
+      {           
+                  width:500px;
+                  height:400px;
+      }
+   }
+ 
+   .r5
+   {
+       width:60px;
+       height:60px;
+       background-color:rgb(23, 175, 23);
+       margin:45px;
+       position:relative;
+       animation-name:row5;
+       animation-duration: 2s;
+       animation-direction: alternate;
+       animation-iteration-count: 1;
+   }
+   @keyframes row5
+   {
+       from
+       {           
+                   width:100px;
+                   height:100px;
+        }
+       to
+       {           
+                   width:500px;
+                   height:400px;
+       }
+    }
+    .r6
+  {
+      width:60px;
+      height:60px;
+      background-color:rgb(23, 175, 23);
+      margin:45px;
+      position:relative;
+      animation-name:row6;
+      animation-duration: 2s;
+      animation-direction: alternate;
+      animation-iteration-count: 1;
+  }
+  @keyframes row6
+  {
+      from
+      {           
+                  width:100px;
+                  height:100px;
+       }
+      to
+      {           
+                  width:500px;
+                  height:400px;
+      }
+   }
+   .r7
+  {
+      width:60px;
+      height:60px;
+      background-color:rgb(23, 175, 23);
+      margin:45px;
+      position:relative;
+      animation-name:row7;
+      animation-duration:2s;
+      animation-direction:alternate;
+      animation-iteration-count: 1;
+  }
+  @keyframes row
+  {
+      from
+      {           
+                  width:100px;
+                  height:100px;
+       }
+      to
+      {           
+                  width:500px;
+                  height:400px;
+      }
+   }
+   .a1
+   {
+       text-align: center;
+   }
+ 
+ 
+  
+ 
+
